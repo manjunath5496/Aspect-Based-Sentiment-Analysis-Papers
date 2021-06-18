@@ -4,28 +4,21 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(1).pdf" style="text-decoration:none;">Emotion Corpus Construction Based on Selection from Hashtags</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(2).pdf" style="text-decoration:none;">Interactive Attention Networks for Aspect-Level Sentiment Classification</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(3).pdf" style="text-decoration:none;">Aspect Sentiment Classification with both Word-level and Clause-level Attention Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(4).pdf" style="text-decoration:none;">A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(5).pdf" style="text-decoration:none;">Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(6).pdf" style="text-decoration:none;">Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(7).pdf" style="text-decoration:none;">Exploiting Document Knowledge for Aspect-level Sentiment Classification</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(8).pdf" style="text-decoration:none;"> CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(9).pdf" style="text-decoration:none;">Attentional Encoder Network for Targeted Sentiment Classification</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(10).pdf" style="text-decoration:none;">Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
