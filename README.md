@@ -146,8 +146,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(80).pdf" style="text-decoration:none;">Sentiment Analysis and Opinion Mining</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Aspect-Based-Sentiment-Analysis-Papers/blob/master/a(81).pdf" style="text-decoration:none;">Aspect-based Sentiment Analysis of Scientific Reviews </a></li>
   </ul>
     
     
